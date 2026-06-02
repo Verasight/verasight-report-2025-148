@@ -1,0 +1,639 @@
+question_id,option_id,option_label,is_missing
+2025-148_q10,1,Strongly disagree,false
+2025-148_q10,2,Slightly disagree,false
+2025-148_q10,3,Neutral,false
+2025-148_q10,4,Slightly agree,false
+2025-148_q10,5,Strongly agree,false
+2025-148_q100,1,Completely confident,false
+2025-148_q100,2,Fairly confident,false
+2025-148_q100,3,Somewhat confident,false
+2025-148_q100,4,Slightly confident,false
+2025-148_q100,5,Not confident at all,false
+2025-148_q101,1,Greatly detracted,false
+2025-148_q101,2,Somewhat detracted,false
+2025-148_q101,3,Neither detracted or enhanced,false
+2025-148_q101,4,Somewhat enhanced,false
+2025-148_q101,5,Greatly enhanced,false
+2025-148_q101,6,I don't watch sports,false
+2025-148_q102,1,Yes,false
+2025-148_q102,2,No,false
+2025-148_q102,3,Prefer not to answer,false
+2025-148_q103,1,0 Days a Week/I do not play video games,false
+2025-148_q103,2,1-2 Days a Week,false
+2025-148_q103,3,3-4 Days a Week,false
+2025-148_q103,4,5-6 Days a Week,false
+2025-148_q103,5,7 Days a Week/Every Day,false
+2025-148_q104,1,"Yes, I already use a blood glucose monitor",false
+2025-148_q104,2,"Yes, within the next 3 months",false
+2025-148_q104,3,"Yes, within the next 6 months",false
+2025-148_q104,4,"Maybe, I need to understand more about blood glucose monitors",false
+2025-148_q104,5,"No, not at this time",false
+2025-148_q105,1,Always,false
+2025-148_q105,2,Often,false
+2025-148_q105,3,Sometimes,false
+2025-148_q105,4,Rarely,false
+2025-148_q105,5,Never,false
+2025-148_q106,1,No,false
+2025-148_q106,2,Yes,false
+2025-148_q106,3,I don't know,false
+2025-148_q107,1,Definitely yes,false
+2025-148_q107,2,Probably yes,false
+2025-148_q107,3,Not sure,false
+2025-148_q107,4,Probably not,false
+2025-148_q107,5,Definitely not,false
+2025-148_q108,1,Yes,false
+2025-148_q108,2,No,false
+2025-148_q108,3,I don't know,false
+2025-148_q109,1,A great deal,false
+2025-148_q109,2,Somewhat,false
+2025-148_q109,3,Not much,false
+2025-148_q109,4,Not at all,false
+2025-148_q109,5,Not sure,false
+2025-148_q11,1,Very much,false
+2025-148_q11,2,Somewhat,false
+2025-148_q11,3,Neutral,false
+2025-148_q11,4,Not so much,false
+2025-148_q11,5,Not at all,false
+2025-148_q110,1,Medicaid,false
+2025-148_q110,2,Military / Veterans Insurance,false
+2025-148_q110,3,Private Insurance - through employeer,false
+2025-148_q110,4,Private Insurance - self purchased,false
+2025-148_q110,5,Medicare,false
+2025-148_q110,6,I don't have health insurance currently,false
+2025-148_q110,7,Other,false
+2025-148_q111,1,It is a wonderful institution of higher education.,false
+2025-148_q111,2,I don't have an opinion on Harvard University.,false
+2025-148_q111,3,I am not in support of Harvard University.,false
+2025-148_q112,1,Yes,false
+2025-148_q112,2,No,false
+2025-148_q112,3,Prefer not to say,false
+2025-148_q113,1,Over reliance on AI: I believe that they will become dependent on AI.,false
+2025-148_q113,2,Reducing their potential: I believe that they will learn less if AI is being used.,false
+2025-148_q113,3,Environmental damage: I believe that the damage to the environment when using AI is greater than the reward surrounding,false
+2025-148_q113,4,Accuracy concerns: I believe that AI has limitations and can provide inaccurate results,false
+2025-148_q113,5,Teacher career: I believe that the careers of teachers can be at-risk if AI is used in education.,false
+2025-148_q113,6,Policy concerns: I have concerns regarding the policies surrounding AI use in education,false
+2025-148_q113,7,Lack of knowledge on the topic: I believe that I do not have enough information on the topic,false
+2025-148_q114,1,"I'm pretty healthy, don't need to worry.",false
+2025-148_q114,2,I don't want to spend money on preventive health.,false
+2025-148_q114,3,I can't afford my healthcare expenses.,false
+2025-148_q114,4,I don't know where to begin.,false
+2025-148_q114,5,Other,false
+2025-148_q115,1,Less than 1 hour,false
+2025-148_q115,2,1-2 hours,false
+2025-148_q115,3,3-4 hours,false
+2025-148_q115,4,5-6 hours,false
+2025-148_q115,5,7-8 hours,false
+2025-148_q115,6,9-10 hours,false
+2025-148_q115,7,11 or more hours,false
+2025-148_q116,1,"Yes, I have bathroom habits that interfere with my daily activities",false
+2025-148_q116,2,"No, I do not have bathroom needs that get in the way of my daily activities",false
+2025-148_q116,3,I prefer not to respond,false
+2025-148_q117,1,I don't buy food from dollar stores,false
+2025-148_q117,2,"I typically go to dollar store to buy non-food items, and I pick up some food while I'm here",false
+2025-148_q117,3,Dollar store has better deals,false
+2025-148_q117,4,The package size is more appropriate for my needs,false
+2025-148_q117,5,I need some food items quickly and dollar store is convenient,false
+2025-148_q117,6,Dollar store is my go-to destination for groceries,false
+2025-148_q117,7,Other,false
+2025-148_q118,1,I do not drink alcohol and did not participate in Dry January,false
+2025-148_q118,2,I drink alcohol and I did not participate in Dry January,false
+2025-148_q118,3,I tried to participate in Dry January but ended up drinking alcohol that month,false
+2025-148_q118,4,I successfully participated in Dry January and did not drink alcohol that month,false
+2025-148_q119,1,"Yes, currently in college and food insecure",false
+2025-148_q119,2,"Yes, was food insecure while a college student",false
+2025-148_q119,3,"No, currently in college and not food insecure",false
+2025-148_q119,4,"No, attended college but was never food insecure",false
+2025-148_q119,5,"No, never attended college",false
+2025-148_q12,1,Toothbrush,false
+2025-148_q12,2,Toothpaste,false
+2025-148_q12,3,Floss,false
+2025-148_q12,4,None of the above,false
+2025-148_q120,1,Yes,false
+2025-148_q120,2,No,false
+2025-148_q121,1,Give permission each time before AI is used,false
+2025-148_q121,2,"Be notified each that AI is used, but do not need to give permission",false
+2025-148_q121,3,I do not want to be notified or asked for permission,false
+2025-148_q122,1,Give permission each time before AI is used,false
+2025-148_q122,2,"Be notified each that AI is used, but do not need to give permission",false
+2025-148_q122,3,I do not want to be notified or asked for permission,false
+2025-148_q123,1,Give permission each time before AI is used,false
+2025-148_q123,2,"Be notified each that AI is used, but do not need to give permission",false
+2025-148_q123,3,I do not want to be notified or asked for permission,false
+2025-148_q124,1,I do not watch the Paralympics,false
+2025-148_q124,2,I rarely watch the Paralympics and only occasionally see clips or highlights,false
+2025-148_q124,3,I only watch a few specific events every few days while the Paralympic Games are on,false
+2025-148_q124,4,I tune in to watch some events every few days while the Paralympic Games are on,false
+2025-148_q124,5,I make an effort to watch as much Paralympic coverage as possible,false
+2025-148_q125,1,I do not watch the Olympics,false
+2025-148_q125,2,I rarely watch the Olympics and only occasionally see clips or highlights,false
+2025-148_q125,3,I only watch a few specific events every few days while the Olympic games are on,false
+2025-148_q125,4,I tune in to watch some events every few days while the Olympic games are on,false
+2025-148_q125,5,I make an effort to watch as much Olympic coverage as possible,false
+2025-148_q13,1,Within the last 12 months,false
+2025-148_q13,2,12-24 months ago,false
+2025-148_q13,3,More than 24 months ago,false
+2025-148_q13,4,I have never had an eye exam,false
+2025-148_q14,1,Appointment reminders,false
+2025-148_q14,2,Extended clinic hours,false
+2025-148_q14,3,Assistance with transportation,false
+2025-148_q14,4,Translation services,false
+2025-148_q14,5,Help scheduling mammograms,false
+2025-148_q14,6,Culturally sensitive staff,false
+2025-148_q14,7,None of the above,false
+2025-148_q14,8,Not applicable,false
+2025-148_q15,1,Yes,false
+2025-148_q15,2,No,false
+2025-148_q15,3,Maybe,false
+2025-148_q16,1,Yes,false
+2025-148_q16,2,No,false
+2025-148_q16,3,I don't know,false
+2025-148_q17,1,I do not have a vision problem,false
+2025-148_q17,2,School vision screening,false
+2025-148_q17,3,Community based vision screening,false
+2025-148_q17,4,Routine eye exam,false
+2025-148_q17,5,Noticed changes in my own vision,false
+2025-148_q17,6,Friend or family member noticed,false
+2025-148_q17,7,Teacher noticed,false
+2025-148_q17,8,Department of Motor Vehicles drivers license renewal screening,false
+2025-148_q18,1,Smoke cigarettes or use any other tobacco products,false
+2025-148_q18,2,Feel safe at home,false
+2025-148_q18,3,Drink alcohol,false
+2025-148_q18,4,Use marijuana or cannabis,false
+2025-148_q18,5,None of the above,false
+2025-148_q19,1,Great,false
+2025-148_q19,2,Good,false
+2025-148_q19,3,Fair,false
+2025-148_q19,4,Poor,false
+2025-148_q19,5,Very Poor,false
+2025-148_q20,1,Very important,false
+2025-148_q20,2,Important,false
+2025-148_q20,3,Somewhat important,false
+2025-148_q20,4,Not at all important,false
+2025-148_q20,5,I am not sure,false
+2025-148_q21,1,At home with health aid,false
+2025-148_q21,2,In a hospital,false
+2025-148_q21,3,At a hospice facility,false
+2025-148_q22,1,Yes,false
+2025-148_q22,2,No,false
+2025-148_q22,3,I don't remember,false
+2025-148_q22,4,Not applicable,false
+2025-148_q23,1,Yes,false
+2025-148_q23,2,No,false
+2025-148_q23,3,I don't know,false
+2025-148_q23,4,Not applicable,false
+2025-148_q24,1,Strongly disagree,false
+2025-148_q24,2,Somewhat disagree,false
+2025-148_q24,3,Neither disagree nor agree,false
+2025-148_q24,4,Somewhat agree,false
+2025-148_q24,5,Strongly agree,false
+2025-148_q25,1,Strongly disagree,false
+2025-148_q25,2,Somewhat disagree,false
+2025-148_q25,3,Neither disagree nor agree,false
+2025-148_q25,4,Somewhat agree,false
+2025-148_q25,5,Strongly agree,false
+2025-148_q26,1,Yes,false
+2025-148_q26,2,No,false
+2025-148_q26,3,Not sure,false
+2025-148_q26,4,I was not aware that there are such librarians as medical librarians.,false
+2025-148_q27,1,No difficulties,false
+2025-148_q27,2,I cannot afford to go to the dentist,false
+2025-148_q27,3,It is too hard to find a dentist who accepts my dental plan (e.g. Medicaid),false
+2025-148_q27,4,I am afraid to going to the dentist,false
+2025-148_q27,5,"I cannot find the time to get to a dentist (e.g., cannot get the time off from work or dentist does not have convenient",false
+2025-148_q27,6,I cannot find a dentist who provides the services I need,false
+2025-148_q27,7,"I cannot travel to a dentist easily (e.g., do not have transportation or located too far away)",false
+2025-148_q28,1,Yes,false
+2025-148_q28,2,No,false
+2025-148_q28,3,Maybe,false
+2025-148_q29,1,Health care provider,false
+2025-148_q29,2,Family/Friends/co-workers,false
+2025-148_q29,3,Television/radio/print or online newspapers/magazines,false
+2025-148_q29,4,"Health-related websites (e.g., WebMD, a hospital website, etc.)",false
+2025-148_q29,5,"Social media sites (e.g., Facebook, YouTube, TikTok, Twitter, etc.) or messaging apps (e.g., WhatsApp, etc.)",false
+2025-148_q29,6,Community leader/community organization/church/religious gathering,false
+2025-148_q29,7,I have not heard about genetic tests,false
+2025-148_q30,1,Your local or county health department,false
+2025-148_q30,2,"Federal health agencies (e.g., CDC, FDA, HHS)",false
+2025-148_q30,3,Your healthcare provider,false
+2025-148_q30,4,Your pharmacist,false
+2025-148_q30,5,None of the above,false
+2025-148_q31,1,Very interested,false
+2025-148_q31,2,Somewhat interested,false
+2025-148_q31,3,Not too interested,false
+2025-148_q31,4,Not at all interested,false
+2025-148_q31,5,Not sure,false
+2025-148_q32,1,To improve my overall health,false
+2025-148_q32,2,Because of a specific health issue,false
+2025-148_q32,3,To lose or manage weight,false
+2025-148_q32,4,To save money,false
+2025-148_q32,5,I enjoy these foods and don't want to cut back,false
+2025-148_q32,6,I don't think they are unhealthy,false
+2025-148_q32,7,I crave these foods or find them hard to give up,false
+2025-148_q32,8,None of the above,false
+2025-148_q33,1,At a school cafeteria,false
+2025-148_q33,2,At work or your workplace cafeteria,false
+2025-148_q33,3,At a hospital or healthcare facility,false
+2025-148_q33,4,At an airport,false
+2025-148_q33,5,At a sports or entertainment venue,false
+2025-148_q33,6,At a restaurant,false
+2025-148_q33,7,I have not had difficulty finding healthy food in these places,false
+2025-148_q34,1,"Not applicable, I haven't menstruated in the past 12 months",false
+2025-148_q34,2,"Never, I have always had the products I needed over the past 12 months",false
+2025-148_q34,3,Occasionally (1-3 months),false
+2025-148_q34,4,Some months (4-6 months),false
+2025-148_q34,5,Most months (7-9 months),false
+2025-148_q34,6,All or nearly all months (10-12 months),false
+2025-148_q35,1,Strongly disagree,false
+2025-148_q35,2,Disagree,false
+2025-148_q35,3,Neither agree nor disagree,false
+2025-148_q35,4,Agree,false
+2025-148_q35,5,Strongly Agree,false
+2025-148_q36,1,Strongly disagree,false
+2025-148_q36,2,Disagree,false
+2025-148_q36,3,Neither agree nor disagree,false
+2025-148_q36,4,Agree,false
+2025-148_q36,5,Strongly agree,false
+2025-148_q37,1,Strongly disagree,false
+2025-148_q37,2,Disagree,false
+2025-148_q37,3,Neither agree nor disagree,false
+2025-148_q37,4,Agree,false
+2025-148_q37,5,Strongly agree,false
+2025-148_q38,1,Very important,false
+2025-148_q38,2,Important,false
+2025-148_q38,3,Neutral,false
+2025-148_q38,4,Unimportant,false
+2025-148_q38,5,Very unimportant,false
+2025-148_q39,1,Cost of care,false
+2025-148_q39,2,Lack of providers,false
+2025-148_q39,3,Limited transportation/distance,false
+2025-148_q39,4,No insurance,false
+2025-148_q39,5,None of the above,false
+2025-148_q39,6,"Not applicable, I do not delay getting an eye exam",false
+2025-148_q4,1,Mold,false
+2025-148_q4,2,Dampness,false
+2025-148_q4,3,Leaks,false
+2025-148_q4,4,History of flooding in your home/unit and/or building,false
+2025-148_q4,5,Trouble paying your electric/gas/heating bill,false
+2025-148_q4,6,Issues with your heating/cooling/HVAC system including a lack of air conditioning,false
+2025-148_q4,7,None of the above,false
+2025-148_q40,1,No impact at all,false
+2025-148_q40,2,Slight impact,false
+2025-148_q40,3,Moderate impact,false
+2025-148_q40,4,Significant impact,false
+2025-148_q40,5,Extreme impact,false
+2025-148_q41,1,Less than 1 year,false
+2025-148_q41,2,Between 1-2 years,false
+2025-148_q41,3,Between 2-5 years,false
+2025-148_q41,4,More than 5 years,false
+2025-148_q41,5,I have never seen an eye doctor.,false
+2025-148_q41,6,I do not know,false
+2025-148_q42,1,Yes,false
+2025-148_q42,2,No,false
+2025-148_q42,3,I don't know,false
+2025-148_q43,1,Agree,false
+2025-148_q43,2,Somewhat agree,false
+2025-148_q43,3,Somewhat disagree,false
+2025-148_q43,4,Disagree,false
+2025-148_q43,5,Don't know,false
+2025-148_q44,1,Strongly Agree,false
+2025-148_q44,2,Agree,false
+2025-148_q44,3,Neutral,false
+2025-148_q44,4,Disagree,false
+2025-148_q44,5,Strongly Disagree,false
+2025-148_q45,1,Very concerned,false
+2025-148_q45,2,Somewhat concerned,false
+2025-148_q45,3,Not too concerned,false
+2025-148_q45,4,Not at all concerned,false
+2025-148_q46,1,Very unlikely,false
+2025-148_q46,2,Unlikely,false
+2025-148_q46,3,Neither likely nor unlikely,false
+2025-148_q46,4,Likely,false
+2025-148_q46,5,Very likely,false
+2025-148_q46,6,I don't know,false
+2025-148_q47,1,Strongly Agree,false
+2025-148_q47,2,Agree,false
+2025-148_q47,3,Neutral,false
+2025-148_q47,4,Disagree,false
+2025-148_q47,5,Strongly Disagree,false
+2025-148_q47,6,Don't understand the question,false
+2025-148_q48,1,Give shots,false
+2025-148_q48,2,Do food inspections,false
+2025-148_q48,3,Take complaints,false
+2025-148_q48,4,I have no clue,false
+2025-148_q48,5,Research disease,false
+2025-148_q48,6,Respond to natural disasters,false
+2025-148_q48,7,Doctors appointments,false
+2025-148_q49,1,Strongly oppose,false
+2025-148_q49,2,Oppose,false
+2025-148_q49,3,Neither support nor oppose,false
+2025-148_q49,4,Support,false
+2025-148_q49,5,Strongly support,false
+2025-148_q49,6,Unsure,false
+2025-148_q5,1,Less than 5 hours,false
+2025-148_q5,2,5 hours,false
+2025-148_q5,3,6 hours,false
+2025-148_q5,4,7 hours,false
+2025-148_q5,5,8 hours,false
+2025-148_q5,6,9 hours or more,false
+2025-148_q50,1,Strongly disagree,false
+2025-148_q50,2,Disagree,false
+2025-148_q50,3,Neither disagree nor agree,false
+2025-148_q50,4,Agree,false
+2025-148_q50,5,Strongly agree,false
+2025-148_q51,1,Housing providing substance use disorder treatment for usually 30-90 days,false
+2025-148_q51,2,"Safe, sober housing with peer support and connection to community services",false
+2025-148_q51,3,"Sober, flop houses for alcoholics, drug addicts and people with criminal justice backgrounds that are a danger to our ne",false
+2025-148_q51,4,Housing prioritizing access to housing but does not require sobriety,false
+2025-148_q51,5,Do not know,false
+2025-148_q52,1,Very favorable,false
+2025-148_q52,2,Favorable,false
+2025-148_q52,3,Neutral,false
+2025-148_q52,4,Unfavorable,false
+2025-148_q52,5,Very unfavorable,false
+2025-148_q53,1,"Non-profit, advocacy and grassroots organizations",false
+2025-148_q53,2,Health care institutions,false
+2025-148_q53,3,City government,false
+2025-148_q53,4,State government,false
+2025-148_q53,5,Federal government,false
+2025-148_q53,6,City residents,false
+2025-148_q53,7,I don't know,false
+2025-148_q54,1,Strongly disagree,false
+2025-148_q54,2,Disagree,false
+2025-148_q54,3,Neither agree nor disagree,false
+2025-148_q54,4,Agree,false
+2025-148_q54,5,Strongly agree,false
+2025-148_q55,1,Used mosquito repellent when going outside,false
+2025-148_q55,2,Spent less time outside or outdoors on very hot days,false
+2025-148_q55,3,Stayed inside when mosquitoes usually bite more,false
+2025-148_q55,4,Drank more water during very hot days,false
+2025-148_q55,5,Checked for ticks after walking in the woods or forest,false
+2025-148_q55,6,Spent more time in air-conditioned places on very hot days,false
+2025-148_q55,7,None of the above,false
+2025-148_q56,1,I have not heard of the Tigray Genocide,false
+2025-148_q56,2,Ukraine,false
+2025-148_q56,3,Palestine,false
+2025-148_q56,4,Ethiopia,false
+2025-148_q56,5,Syria,false
+2025-148_q56,6,Eritrea,false
+2025-148_q56,7,Yemen,false
+2025-148_q56,8,Sudan,false
+2025-148_q57,1,Strongly Agree,false
+2025-148_q57,2,Agree,false
+2025-148_q57,3,Disagree,false
+2025-148_q57,4,Strongly Disagree,false
+2025-148_q58,1,Not at all familiar,false
+2025-148_q58,2,Somewhat familiar,false
+2025-148_q58,3,Familiar,false
+2025-148_q58,4,Very familiar,false
+2025-148_q59,1,Yes,false
+2025-148_q59,2,No,false
+2025-148_q59,3,Unsure,false
+2025-148_q6,1,"Knowing exactly how to call the Rapid Response Team (for example, what number to dial)",false
+2025-148_q6,2,Understanding when it is appropriate to call (what symptoms or situations qualify),false
+2025-148_q6,3,Knowing that I would not get in trouble for calling if it turned out not to be an emergency,false
+2025-148_q6,4,"Being told what happens after the call (who comes, what they do, what to expect)",false
+2025-148_q6,5,Knowing that calls are taken seriously and acted on quickly,false
+2025-148_q6,6,"Seeing signs, posters, brochures, videos, or a website in the hospital explaining the process",false
+2025-148_q6,7,Hearing about real examples of patients or families who successfully used the system,false
+2025-148_q6,8,Other,false
+2025-148_q60,1,25,false
+2025-148_q60,2,50,false
+2025-148_q60,3,100,false
+2025-148_q60,4,More than 250,false
+2025-148_q61,1,Publicly acknowledge and change practices based on learnings from past missteps,false
+2025-148_q61,2,Training in transparent and empathetic communication,false
+2025-148_q61,3,Building community partnership that emphasize learning,false
+2025-148_q61,4,Changing organizational incentives to reward transparency,false
+2025-148_q61,5,Leadership modeling openness and self-reflection,false
+2025-148_q61,6,I don't know,false
+2025-148_q62,1,Content Creators,false
+2025-148_q62,2,Journalists,false
+2025-148_q62,3,Community Members,false
+2025-148_q62,4,Content Experts,false
+2025-148_q62,5,Policy Makers,false
+2025-148_q62,6,Educators,false
+2025-148_q62,7,None of the above,false
+2025-148_q63,1,Strongly disagree,false
+2025-148_q63,2,Disagree,false
+2025-148_q63,3,Agree,false
+2025-148_q63,4,Strongly agree,false
+2025-148_q64,1,Strongly agree,false
+2025-148_q64,2,Agree,false
+2025-148_q64,3,Neither agree nor disagree,false
+2025-148_q64,4,Disagree,false
+2025-148_q64,5,Strongly disagree,false
+2025-148_q65,1,1- I hate this idea,false
+2025-148_q65,2,2,false
+2025-148_q65,3,3,false
+2025-148_q65,4,4,false
+2025-148_q65,5,5,false
+2025-148_q65,6,6,false
+2025-148_q65,7,7- I love this idea,false
+2025-148_q66,1,Yes,false
+2025-148_q66,2,No,false
+2025-148_q66,3,Prefer not to say,false
+2025-148_q67,1,1 - not very close,false
+2025-148_q67,2,2,false
+2025-148_q67,3,3,false
+2025-148_q67,4,4,false
+2025-148_q67,5,5 - very close,false
+2025-148_q67,6,Not applicable- I do not know someone with a substance use problem,false
+2025-148_q68,1,Very likely,false
+2025-148_q68,2,Somewhat likely,false
+2025-148_q68,3,Neutral,false
+2025-148_q68,4,Somewhat unlikely,false
+2025-148_q68,5,Very unlikely,false
+2025-148_q68,6,Not applicable- I do not know someone with a substance use problem,false
+2025-148_q69,1,Make it much easier,false
+2025-148_q69,2,Make it somewhat easier,false
+2025-148_q69,3,Have no impact,false
+2025-148_q69,4,Make it somewhat harder,false
+2025-148_q69,5,Make it much harder,false
+2025-148_q69,6,I'm not sure,false
+2025-148_q7,1,Yes,false
+2025-148_q7,2,No,false
+2025-148_q7,3,Unsure,false
+2025-148_q70,1,I support state-mandated insurance coverage of IVF.,false
+2025-148_q70,2,I do not support state-mandated insurance coverage of IVF because it will increase my insurance premium.,false
+2025-148_q70,3,I do not support state-mandated insurance coverage of IVF because it will increase my taxes.,false
+2025-148_q70,4,I do not support state-mandated insurance coverage of IVF because it's not medically necessary.,false
+2025-148_q70,5,I do not support state-mandated insurance coverage of IVF because it conflicts with my religious beliefs.,false
+2025-148_q70,6,I do not support state-mandated insurance coverage of IVF because of my personal or moral beliefs.,false
+2025-148_q70,7,I'm not sure.,false
+2025-148_q71,1,IVF guarantees pregnancy for most people after one cycle.,false
+2025-148_q71,2,IVF usually results in twins or triplets.,false
+2025-148_q71,3,People who use IVF are more likely to have babies with birth defects or genetic problems.,false
+2025-148_q71,4,IVF success rates depend on factors such as age and health.,false
+2025-148_q71,5,IVF involves cloning or genetic modification,false
+2025-148_q71,6,IVF is free in states that require insurance coverage for fertility treatments,false
+2025-148_q71,7,I don’t know anything about IVF,false
+2025-148_q72,1,Essential role,false
+2025-148_q72,2,Extremely important role,false
+2025-148_q72,3,Very important role,false
+2025-148_q72,4,Moderately important role,false
+2025-148_q72,5,Somewhat important role,false
+2025-148_q72,6,Slightly important role,false
+2025-148_q72,7,Not at all important role,false
+2025-148_q73,1,Fathers should be given informational materials,false
+2025-148_q73,2,Fathers should be invited to attend prenatal visits and classes,false
+2025-148_q73,3,Fathers should be included in birth planning and delivery actively,false
+2025-148_q73,4,Fathers should be encouraged to attend labor and delivery actively,false
+2025-148_q73,5,"Fathers should receive tailored support (eg., mental health and parenting education)",false
+2025-148_q73,6,Fathers should be recognized as co-care recipients and decision makers by health systems,false
+2025-148_q73,7,Fathers should be integrated into the care team with active roles throughout,false
+2025-148_q73,8,None of the above,false
+2025-148_q74,1,Health systems and pregnancy care not originally designed to included fathers/partners,false
+2025-148_q74,2,Cultural and gender norms assume caregiving is primarily the mother's role,false
+2025-148_q74,3,Healthcare providers often lack training or resources to engage fathers,false
+2025-148_q74,4,Fathers are perceived as disinterested or unavailable,false
+2025-148_q74,5,Policy and reimbursement structures focus exclusively on mothers and babies,false
+2025-148_q74,6,Absence of Father-inclusive models in provider education and practice,false
+2025-148_q74,7,Limited research or data on the impact of father engagement in perinatal care,false
+2025-148_q74,8,None of the above,false
+2025-148_q75,1,Tuberculosis,false
+2025-148_q75,2,Human Immunodeficiency Virus (HIV),false
+2025-148_q75,3,Influenza (Flu),false
+2025-148_q75,4,COVID-19,false
+2025-148_q75,5,Hepatitis,false
+2025-148_q75,6,Respiratory syncytial virus (RSV),false
+2025-148_q76,1,Stigma,false
+2025-148_q76,2,Drug prices are too high,false
+2025-148_q76,3,Budget cuts to the TB division at the Centers for Disease Control and Prevention (CDC),false
+2025-148_q76,4,The patient doesn't feel sick,false
+2025-148_q76,5,Local public health departments are overwhelmed,false
+2025-148_q76,6,Doctors don't know how to diagnose TB,false
+2025-148_q76,7,People don't realize TB infection treatment can protect family and friends because the treatment stops TB infection from,false
+2025-148_q77,1,"Local government (e.g., city or county health department)",false
+2025-148_q77,2,State government,false
+2025-148_q77,3,"Federal government (e.g., Center for Disease Control, National Institutes of Health)",false
+2025-148_q77,4,"International organizations (e.g., World Health Organization)",false
+2025-148_q77,5,"Community organizations (e.g., local clinics, nonprofits, faith-based groups)",false
+2025-148_q77,6,I have equal confidence in all of these sources,false
+2025-148_q77,7,I do not have confidence in any of these sources,false
+2025-148_q78,1,"Local government (e.g., city or county health department)",false
+2025-148_q78,2,State government,false
+2025-148_q78,3,"Federal government (e.g., Center for Disease Control, National Institutes of Health)",false
+2025-148_q78,4,"International organizations (e.g., World Health Organization)",false
+2025-148_q78,5,"Community organizations (e.g., local clinics, nonprofits, faith-based groups)",false
+2025-148_q78,6,All of these sources influence me equally,false
+2025-148_q78,7,None - I do not rely on these sources when making health decisions,false
+2025-148_q79,1,Seen someone threaten or hurt another with a gun on purpose,false
+2025-148_q79,2,None of the above,false
+2025-148_q79,3,Seen someone shooting a gun in public,false
+2025-148_q79,4,Heard (not seen) a gun shot in public,false
+2025-148_q79,5,Know someone who killed themselves or tried to kill themselves with a gun,false
+2025-148_q79,6,Been threatened with a gun and thought it to be serious,false
+2025-148_q79,7,Been robbed with a gun,false
+2025-148_q79,8,Been shot or shot at,false
+2025-148_q8,1,No effect on accessing primary care,false
+2025-148_q8,2,Reduced willingness to access primary care,false
+2025-148_q8,3,Increased willingness to access primary care,false
+2025-148_q80,1,No,false
+2025-148_q80,4,Don’t know / Unsure,false
+2025-148_q80,5,"Yes, once or twice",false
+2025-148_q80,6,"Yes, several times",false
+2025-148_q80,7,"Yes, many times",false
+2025-148_q80,8,Prefer not to respond,false
+2025-148_q81,1,Yes,false
+2025-148_q81,4,No,false
+2025-148_q81,5,Don’t know/not sure,false
+2025-148_q81,6,Prefer not to respond,false
+2025-148_q82,1,Yes,false
+2025-148_q82,4,No,false
+2025-148_q82,5,There are no firearms kept in or around my home,false
+2025-148_q82,6,Don’t know/not sure,false
+2025-148_q82,7,Prefer not to respond,false
+2025-148_q83,1,Yes,false
+2025-148_q83,4,No,false
+2025-148_q83,5,There are no loaded firearms kept in or around my home,false
+2025-148_q83,6,Don’t know/not sure,false
+2025-148_q83,7,Prefer not to respond,false
+2025-148_q84,1,No,false
+2025-148_q84,4,Don’t know / Unsure,false
+2025-148_q84,5,"Yes, by a primary care physician",false
+2025-148_q84,6,"Yes, by a mental health professional / counselor",false
+2025-148_q84,7,"Yes, at the emergency department",false
+2025-148_q84,8,"Yes, other",false
+2025-148_q84,9,Prefer not to respond,false
+2025-148_q85,1,Elected government officials,false
+2025-148_q85,2,Don’t know / Unsure,false
+2025-148_q85,3,None of the above,false
+2025-148_q85,4,Law enforcement / Military,false
+2025-148_q85,5,Healthcare providers,false
+2025-148_q85,6,Teachers,false
+2025-148_q85,7,Community or faith leaders,false
+2025-148_q85,8,Influencers / Celebrities,false
+2025-148_q85,9,Family / Friends,false
+2025-148_q86,1,Heat-related illness,false
+2025-148_q86,2,Infectious diseases from insects,false
+2025-148_q86,3,Not having enough clean water,false
+2025-148_q86,4,"Respiratory problems due to air pollution, heat, or wildfires",false
+2025-148_q86,5,"Stress, worry, or other mental health challenges",false
+2025-148_q86,6,Something else,false
+2025-148_q86,7,I'm not concerned about health effects of climate change,false
+2025-148_q87,1,Strongly support,false
+2025-148_q87,2,Somewhat support,false
+2025-148_q87,3,Somewhat oppose,false
+2025-148_q87,4,Strongly oppose,false
+2025-148_q87,5,No opinion,false
+2025-148_q88,1,Yes,false
+2025-148_q88,2,No,false
+2025-148_q89,1,Less than 6 hours,false
+2025-148_q89,2,6-7 hours,false
+2025-148_q89,3,7-8 hours,false
+2025-148_q89,4,More than 8 hours,false
+2025-148_q9,1,1 layer,false
+2025-148_q9,2,2 layers,false
+2025-148_q9,3,3 layers,false
+2025-148_q9,4,4 layers,false
+2025-148_q9,5,I don't know,false
+2025-148_q90,1,Very important,false
+2025-148_q90,2,Somewhat important,false
+2025-148_q90,3,Somewhat unimportant,false
+2025-148_q90,4,Very unimportant,false
+2025-148_q91,1,Strongly disagree,false
+2025-148_q91,2,Disagree,false
+2025-148_q91,3,Neither agree nor disagree,false
+2025-148_q91,4,Agree,false
+2025-148_q91,5,Strongly agree,false
+2025-148_q91,6,I'm not familiar with AI tools or would not use them,false
+2025-148_q92,1,Strongly disagree,false
+2025-148_q92,2,Disagree,false
+2025-148_q92,3,Neutral,false
+2025-148_q92,4,Agree,false
+2025-148_q92,5,Strongly agree,false
+2025-148_q92,6,I don't know,false
+2025-148_q93,1,Supportive Manager,false
+2025-148_q93,2,Education and Development,false
+2025-148_q93,3,Competitive Compensation,false
+2025-148_q93,4,Flexible Schedule,false
+2025-148_q93,5,None of the above,false
+2025-148_q94,1,A lot more optimistic,false
+2025-148_q94,2,More optimistic,false
+2025-148_q94,3,Equally as optimistic,false
+2025-148_q94,4,Less optimistic,false
+2025-148_q94,5,A lot less optimistic,false
+2025-148_q95,1,0 times,false
+2025-148_q95,2,1-3 times,false
+2025-148_q95,3,4-5 times,false
+2025-148_q95,4,More than 5 times,false
+2025-148_q96,1,Excellent; use and analyze data every day to inform my work and personal life.,false
+2025-148_q96,2,Very Good,false
+2025-148_q96,3,Good,false
+2025-148_q96,4,Fair,false
+2025-148_q96,5,Poor; I never use or analyze data in my day-to-day life,false
+2025-148_q97,1,Less than 1 hour,false
+2025-148_q97,2,1-4 hrs,false
+2025-148_q97,3,5-8 hrs,false
+2025-148_q97,4,8+ hours,false
+2025-148_q98,1,No pets,false
+2025-148_q98,2,Dog,false
+2025-148_q98,3,Cat,false
+2025-148_q98,4,Guinea pig/hamster/rabbit,false
+2025-148_q98,5,Fish,false
+2025-148_q98,6,Reptile,false
+2025-148_q98,7,Horse or large animal,false
+2025-148_q99,1,Yes,false
+2025-148_q99,2,No,false
+2025-148_q99,3,I don't know,false

@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.1.0",
+  "report_id": "2025-148",
+  "repo_name": "verasight-report-2025-148",
+  "title": "Verasight APHA Omnibus Survey #2025-148",
+  "wave_id": "2025-148",
+  "source_report_url": "https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2025-148",
+  "data_library_url": "https://data.verasight.io/",
+  "field_dates": {
+    "start": "2025-11-14",
+    "end": "2025-11-20"
+  },
+  "population": "US adults age 18+",
+  "mode": "online panel (Verasight Community)",
+  "sponsor": "Verasight",
+  "aapor_transparency": true,
+  "question_count": 122,
+  "modules": [
+    "Module 1",
+    "Module 3",
+    "Module 2"
+  ],
+  "publication_status": "ready_for_draft",
+  "reuse_status": "reference_only_pending_verasight_license_decision"
+}
