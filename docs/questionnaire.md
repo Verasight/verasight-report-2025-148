@@ -352,7 +352,7 @@ If you know someone with a substance use problem, how close are you to that pers
 
 ## 2025-148_q68
 
-- attending a meeting, financial support, locating treatment options, etc.)?
+If you know someone with a substance use problem, how likely are you to provide them with support (i.e. - attending a meeting, financial support, locating treatment options, etc.)?
 
 ## 2025-148_q69
 
